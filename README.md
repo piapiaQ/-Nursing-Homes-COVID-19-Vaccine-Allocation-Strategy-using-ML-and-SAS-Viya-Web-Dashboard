@@ -2,7 +2,7 @@
 
 
 ## Table of contents
-  * [Project Intro/Objective](#Project Intro/Objective)
+  * [Project Objective](#Project Intro/Objective)
   * [Technologies](#data-explorations)
   * [Simulations](#simulations)
   * [Tensorflow-js](#tensorflow-js)
@@ -14,11 +14,11 @@
     * [Results simulation](#results-simulation)
   * [Partner](#Partner)
 
-## Project Intro/Objective
+## Project Objective
 The purpose of this project is to 
-*  identify nursing homes at high risk of COVID-19 infection and mortality to support them with resources such as testing supplies and personal protective equipment.
+*  identify nursing homes at high risk of COVID-19 infection and mortality.
 *  summarize and investigate CMS inspection narratives for more efficient review, and explore potential issues in nursing homes related to COVID-19 to inform policy making. 
-*  advise on intervention that can operationalize equitable vaccine allocation strategies with a web dashboard. 
+*  advise on intervention that can operationalize equitable vaccine allocation strategies. 
 
 ### Partner
 * Team Members: Alexandra Allen,  Anzhi Mou, Zhaoyu Qiao, Harvir Virk Singh, Xiaoyu Zhu
@@ -36,14 +36,6 @@ The purpose of this project is to
 ## Project Description
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
-## Needs of this project
-
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
 
 ## Getting Started
 
