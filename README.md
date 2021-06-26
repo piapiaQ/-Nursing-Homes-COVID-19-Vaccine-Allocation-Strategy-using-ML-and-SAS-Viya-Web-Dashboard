@@ -2,9 +2,7 @@
 
 
 ## Table of contents
-  * [Project Intro/Objective](#models)
-  * [Partner](#agents)
-  * [Methods Used](realtime-agent)
+  * [Project Intro/Objective](#Project Intro/Objective)
   * [Technologies](#data-explorations)
   * [Simulations](#simulations)
   * [Tensorflow-js](#tensorflow-js)
@@ -14,6 +12,7 @@
     * [Results signal prediction](#results-signal-prediction)
     * [Results analysis](#results-analysis)
     * [Results simulation](#results-simulation)
+  * [Partner](#Partner)
 
 ## Project Intro/Objective
 The purpose of this project is to 
@@ -22,17 +21,10 @@ The purpose of this project is to
 *  advise on intervention that can operationalize equitable vaccine allocation strategies with a web dashboard. 
 
 ### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
-
-### Methods Used
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
+* Team Members: Alexandra Allen,  Anzhi Mou, Zhaoyu Qiao, Harvir Virk Singh, Xiaoyu Zhu
+* Client: SAS, Inc. 
+* CMU Faculty Advisor: Dr. Rema Padman
+* SAS Enterprise Client Advisor: Manuel Figallo
 
 ### Technologies
 
