@@ -1,15 +1,15 @@
 # -Nursing-Homes-COVID-19-Vaccine-Allocation-Strategy-using-ML-and-SAS-Viya-Web-Dashboard
-Alexandra Allen,  Anzhi Mou, Zhaoyu Qiao, Harvir Virk Singh, Xiaoyu Zhu
-Carnegie Mellon University, Heinz College, Graduate Capstone Project in Partnership with SAS Enterprise
-CMU Faculty Advisor: Dr. Rema Padman,  SAS Enterprise Client Advisor: Manuel Figallo
+Alexandra Allen,  Anzhi Mou, Zhaoyu Qiao, Harvir Virk Singh, Xiaoyu Zhu  
+Carnegie Mellon University, Heinz College, Graduate Capstone Project in Partnership with SAS Enterprise  
+CMU Faculty Advisor: Dr. Rema Padman,  SAS Enterprise Client Advisor: Manuel Figallo  
 
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
 The purpose of this project is to 
-### identify nursing homes at high risk of COVID-19 infection and mortality to support them with resources such as testing supplies and personal protective equipment.
-### summarize and investigate CMS inspection narratives for more efficient review, and explore potential issues in nursing homes related to COVID-19 to inform policy making. 
-### advise on intervention that can operationalize equitable vaccine allocation strategies with a web dashboard. 
+*  identify nursing homes at high risk of COVID-19 infection and mortality to support them with resources such as testing supplies and personal protective equipment.
+*  summarize and investigate CMS inspection narratives for more efficient review, and explore potential issues in nursing homes related to COVID-19 to inform policy making. 
+*  advise on intervention that can operationalize equitable vaccine allocation strategies with a web dashboard. 
 
 ### Partner
 * [Name of Partner organization/Government department etc..]
