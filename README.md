@@ -37,8 +37,8 @@ The purpose of this project is to
 ### Technologies
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-STATA-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SAS Viya-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-STATA-informational?style=flat&logo=stata&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SASViya-informational?style=flat&logo=sas&logoColor=white&color=2bbc8a)
 
 
 ## Project Description
