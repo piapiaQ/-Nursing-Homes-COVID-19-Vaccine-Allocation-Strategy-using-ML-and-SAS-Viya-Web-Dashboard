@@ -3,9 +3,9 @@
 
 ## Project Objective
 The purpose of this project is to 
-*  identify nursing homes at high risk of COVID-19 infection and mortality.
-*  summarize and investigate CMS inspection narratives for more efficient review, and explore potential issues in nursing homes related to COVID-19 to inform policy making. 
-*  advise on intervention that can operationalize equitable vaccine allocation strategies. 
+*  Identify nursing homes at high risk of COVID-19 infection and mortality.
+*  Summarize and investigate CMS inspection narratives for more efficient review, and explore potential issues in nursing homes related to COVID-19 to inform policy making. 
+*  Advise on intervention that can operationalize equitable vaccine allocation strategies. 
 
 ### Partner
 * Team Members: Alexandra Allen,  Anzhi Mou, Zhaoyu Qiao, Harvir Virk Singh, Xiaoyu Zhu
