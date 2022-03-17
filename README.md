@@ -39,6 +39,8 @@ The purpose of this project is to
 
 ## Getting Started
 
+![image](https://github.com/piapiaQ/Nursing-Homes-COVID-19-Vaccine-Allocation-Strategy-using-ML-and-SAS-Viya-Web-Dashboard/blob/main/Capstone%20Poster%20-%20COVID-19%20Infection%20Risk%20and%20Vaccine%20Allocation%20Models%20ML%20and%20SAS%20Viya%20for%20Nursing%20Homes.png)
+
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
 
