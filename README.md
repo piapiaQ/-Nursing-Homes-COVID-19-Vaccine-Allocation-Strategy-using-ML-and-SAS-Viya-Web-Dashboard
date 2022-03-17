@@ -20,7 +20,7 @@ The purpose of this project is to
 ![](https://img.shields.io/badge/Tools-SASViya-informational?style=flat&logo=sas&logoColor=white&color=2bbc8a)
 
 
-## Project Content
+## Project Summary
 
 ![image](https://github.com/piapiaQ/Nursing-Homes-COVID-19-Vaccine-Allocation-Strategy-using-ML-and-SAS-Viya-Web-Dashboard/blob/main/Capstone%20Poster%20-%20COVID-19%20Infection%20Risk%20and%20Vaccine%20Allocation%20Models%20ML%20and%20SAS%20Viya%20for%20Nursing%20Homes.png)
 
